@@ -1,16 +1,85 @@
-### Hi there 👋
+# 👨‍💻    Whoami 
+<img align="left" alt="WhiteHat" width="150px" src="https://us.123rf.com/450wm/amin268/amin2681903/amin268190300732/121207267-fraud-thin-line-icon-anonymity-and-agent-spy-sign-vector-graphics-a-linear-pattern-on-a-white-backgr.jpg?ver=6g" /><img />
+Hello World! I'm Steve aka n0tst3, amongst others aliases, an independent security researcher, and analyst from Scotland, UK.
 
-<!--
-**DeffoN0tSt3/DeffoN0tSt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've had an avid interest in Computers, Technology and Security since my early teens. 20 years on, and, it's a whole lot more complicated..
+Throughout my security research, I've assisted Governments, Individuals and Organizations throughout the world. Including; US DOJ, NHS UK, GOV UK and much more.
+I'm *mostly* self taught, but that wouldn't be the case if there was no internet! phew!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+  
+## 📅 How it all started
+
+
+
+🥇 My first ever programming language was c++ around 2002, perl quickly followed. IRC and Irc bots was my thing, how things have changed.
+
+## 📈   Statistics:
+
+
+<a href="https://github.com/DeffoN0tSt3">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeffoN0tSt3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeffoN0tSt3&layout=compact&theme=tokyonight&hide=html&count_private=true" />
+</a>
+
+
+## 📫   How to reach me:
+s@realinfosec[d0t]net
+
+
+## 💬   Ask me anything!
+### ⚡  Fun fact: CyberSecurity generally starts with you!
+#### 🛠️ Check out [Free Cybersecurity Academy Tools/Guides](https://www.realinfosec.net/cyber-academy/ "Free Cybersecurity Academy Tools/Guides")
+
+
+## ❤️   Passion:
+All things infosec, all things programming.
+
+
+## 💻   OS:
+
+
+<img align="left" alt="Debian Distro" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
+<img align="left" alt="Kali" width="35px" src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" />
+<img align="left" alt="MS" width="35px" src="https://www.svgrepo.com/show/303143/microsoft-logo.svg" />
+
+<br /> <br/> 
+## 🏅   Some of my Capabilities:
+####    Including, but not limited too;
+
+
+<img align="left" alt="c" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" />
+<img align="left" alt="perl" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" />
+<img align="left" alt="PHP" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
+<img align="left" alt="python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="lua" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" />
+<img align="left" alt="gimp" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" />
+<img align="left" alt="blender" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" />
+<img align="left" alt="JavaScript" width="35px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png" />
+<img align="left" alt="TypeScript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="CSS3" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="SASS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+<img align="left" alt="Vue" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="CSharp" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="HTML5" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="Node.js" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="AWS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /><img />
+
+<br /> <br /> 
+
+
+## 🙏 Recent Security Recommendations and Acknowledgements:  
+
+
+
+### [1] @CasualSpaniel via Twitter, secured domain withheld.   5 July, 2022
+"Great approach, very professional and reasonable. We resolved an issue swiftly and would like to thank n0tSt3 for his attitude and communication. Would highly recommend."
+
+
+###  [2] WebBoss.io
+<img height="500cm" src="https://i.ibb.co/jgG44x3/ack.png" />
+
+
