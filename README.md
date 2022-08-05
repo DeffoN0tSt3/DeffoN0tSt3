@@ -40,13 +40,7 @@ s@realinfosec[d0t]net
 
 ## ❤️   Passion:
 All things infosec, all things programming.
-<br/>
 
-## 💻   OS:
-
-<img align="left" alt="Debian Distro" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
-<img align="left" alt="Kali" width="35px" src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" />
-<img align="left" alt="MS" width="35px" src="https://www.svgrepo.com/show/303143/microsoft-logo.svg" />
 
 <br /> <br/> 
 ## 🏅   Technologies:
@@ -87,7 +81,7 @@ All things infosec, all things programming.
 	    <br />
 	</ul>	
 </details>
- <br/>  <br/>
+<br/>
  
 ## 🙏 Recent Security Recommendations and Acknowledgements:  
 
