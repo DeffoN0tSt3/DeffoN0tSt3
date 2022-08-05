@@ -5,10 +5,7 @@ Hello World! I'm Steve aka n0tst3, amongst others aliases, an independent securi
 I've had an avid interest in Computers, Technology and Security since my early teens. 20 years on, and, it's a whole lot more complicated..
 Throughout my security research, I've assisted Governments, Individuals and Organizations throughout the world. Including; US DOJ, NHS UK, GOV UK and much more.
 I'm *mostly* self taught, but that wouldn't be the case if there was no internet! phew!
-
-
-
-  
+  <br />  <br />
   
 ## 📅 How it all started
 
@@ -33,6 +30,9 @@ I'm *mostly* self taught, but that wouldn't be the case if there was no internet
 ## 📫   How to reach me:
 s@realinfosec[d0t]net
 #### 💬   Ask me anything!
+[![Twitter Follow](https://img.shields.io/twitter/follow/n0tst3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fn0tst3&screen_name=n0tst3)
+
+ 
 ### ⚡  Fun fact: CyberSecurity generally starts with you!
 
 #### 🛠️ Check out [Free Cybersecurity Academy Tools/Guides](https://www.realinfosec.net/cyber-academy/ "Free Cybersecurity Academy Tools/Guides")
@@ -103,3 +103,7 @@ All things infosec, all things programming.
 
 <br /> <br /> 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=DeffoN0tSt3.DeffoN0tSt3" alt="visitors since aug 2022"></p>
+
+
+
+
