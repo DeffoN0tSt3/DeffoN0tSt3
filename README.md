@@ -1,3 +1,5 @@
+<p align='center'><img src='n0tst3.svg' width='400'/></p>
+
 # 👨‍💻    Whoami 
 <img align="left" alt="WhiteHat" width="150px" src="https://us.123rf.com/450wm/amin268/amin2681903/amin268190300732/121207267-fraud-thin-line-icon-anonymity-and-agent-spy-sign-vector-graphics-a-linear-pattern-on-a-white-backgr.jpg?ver=6g" /><img />
 Hello World! I'm Steve aka n0tst3, amongst others aliases, an independent security researcher, and analyst from Scotland, UK.
@@ -30,7 +32,7 @@ I'm *mostly* self taught, but that wouldn't be the case if there was no internet
 ## 📫   How to reach me:
 s@realinfosec[d0t]net
 #### 💬   Ask me anything!
-[![Twitter Follow](https://img.shields.io/twitter/follow/n0tst3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fn0tst3&screen_name=n0tst3)
+[![Twitter Follow](https://img.shields.io/twitter/follow/n0tst3?color=00dff1&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fn0tst3&screen_name=n0tst3)
 
  
 ### ⚡  Fun fact: CyberSecurity generally starts with you!
@@ -102,7 +104,8 @@ All things infosec, all things programming.
 </details>
 
 <br /> <br /> 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=DeffoN0tSt3.DeffoN0tSt3" alt="visitors since aug 2022"></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=DeffoN0tSt3.DeffoN0tSt3&color" alt="Visitors"></p>
+
 
 
 
