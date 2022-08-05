@@ -14,7 +14,7 @@ I'm *mostly* self taught, but that wouldn't be the case if there was no internet
 
 
 
-🥇 My first ever programming language was c++ around 2002, perl quickly followed. IRC and Irc bots was my thing, how things have changed.
+🥇 My first ever programming language I ever played with was c++ around 2002, what a struggle it was getting all dependencies and stuff installed to be able to compile on my shady ass Windows 98 system. Perl quickly followed. IRC and Irc bots was my thing, how things have changed.
 
 ## 📈   Statistics:
 
@@ -23,29 +23,33 @@ I'm *mostly* self taught, but that wouldn't be the case if there was no internet
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeffoN0tSt3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeffoN0tSt3&layout=compact&theme=tokyonight&hide=html&count_private=true" />
 </a>
 
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DeffoN0tSt3&hide_border=true" />
+</details>
 
 ## 📫   How to reach me:
 s@realinfosec[d0t]net
-
-
-## 💬   Ask me anything!
+#### 💬   Ask me anything!
 ### ⚡  Fun fact: CyberSecurity generally starts with you!
-#### 🛠️ Check out [Free Cybersecurity Academy Tools/Guides](https://www.realinfosec.net/cyber-academy/ "Free Cybersecurity Academy Tools/Guides")
 
+#### 🛠️ Check out [Free Cybersecurity Academy Tools/Guides](https://www.realinfosec.net/cyber-academy/ "Free Cybersecurity Academy Tools/Guides")
+<br/>
 
 ## ❤️   Passion:
 All things infosec, all things programming.
-
+<br/>
 
 ## 💻   OS:
-
 
 <img align="left" alt="Debian Distro" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
 <img align="left" alt="Kali" width="35px" src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" />
 <img align="left" alt="MS" width="35px" src="https://www.svgrepo.com/show/303143/microsoft-logo.svg" />
 
 <br /> <br/> 
-## 🏅   Some of my Capabilities:
+## 🏅   Technologies:
 ####    Including, but not limited too;
 
 
@@ -54,6 +58,7 @@ All things infosec, all things programming.
 <img align="left" alt="PHP" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
 <img align="left" alt="python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="lua" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" />
+ <br/><details>	<summary><b>Expand</b></summary>
 <img align="left" alt="gimp" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" />
 <img align="left" alt="blender" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" />
 <img align="left" alt="JavaScript" width="35px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png" />
@@ -67,19 +72,40 @@ All things infosec, all things programming.
 <img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="MySQL" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="AWS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /><img />
-
+</details>
 <br /> <br /> 
-
-
+<details>	
+  <br />
+  <summary><b>⚙️ Day to day setup</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Debian / Ubuntu 20.04 / Win10</li>
+	    <li><b>Laptop: </b> Asus TUF</li>
+      	<li><b>Desktop: </b> i7 10th Gen</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH:</li>
+	    <li><b>Code Editor:</b> VSCode - Arguably the best.</li>
+	    <br />
+	</ul>	
+</details>
+ <br/>  <br/>
+ 
 ## 🙏 Recent Security Recommendations and Acknowledgements:  
 
+<details>	
+  <br />
+<summary><b>[1] @CasualSpaniel via Twitter, secured domain withheld.   5 July, 2022</summary>
+<ul>"Great approach, very professional and reasonable. We resolved an issue swiftly and would like to thank n0tSt3 for his attitude and communication. Would highly recommend."
+	    <br />
+	</ul>	
+</details>
 
+<br /> 
+<details>	
+<summary>[2] WebBoss.io</summary>
+<ul><img height="500cm" src="https://i.ibb.co/jgG44x3/ack.png" />
+   <br />
+	</ul>	
+</details>
 
-### [1] @CasualSpaniel via Twitter, secured domain withheld.   5 July, 2022
-"Great approach, very professional and reasonable. We resolved an issue swiftly and would like to thank n0tSt3 for his attitude and communication. Would highly recommend."
-
-
-###  [2] WebBoss.io
-<img height="500cm" src="https://i.ibb.co/jgG44x3/ack.png" />
-
-
+<br /> <br /> 
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=DeffoN0tSt3.DeffoN0tSt3" alt="visitors since aug 2022"></p>
