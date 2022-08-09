@@ -1,8 +1,8 @@
 <p align='center'><img src='n0tst3.svg' width='400'/></p>
 
 # 👨‍💻    Whoami 
-<img align="left" alt="WhiteHat" width="150px" src="https://us.123rf.com/450wm/amin268/amin2681903/amin268190300732/121207267-fraud-thin-line-icon-anonymity-and-agent-spy-sign-vector-graphics-a-linear-pattern-on-a-white-backgr.jpg?ver=6g" /><img />
-Hello World! I'm Steve aka n0tst3, amongst others aliases, an independent security researcher, and analyst from Scotland, UK.
+
+<img align="left" alt="WhiteHat" width="150px" src="https://us.123rf.com/450wm/amin268/amin2681903/amin268190300732/121207267-fraud-thin-line-icon-anonymity-and-agent-spy-sign-vector-graphics-a-linear-pattern-on-a-white-backgr.jpg?ver=6g" /><img />Hello World! I'm Steve aka n0tst3, amongst others aliases, an independent security researcher, and analyst from Scotland, UK.
 
 I've had an avid interest in Computers, Technology and Security since my early teens. 20 years on, and, it's a whole lot more complicated..
 Throughout my security research, I've assisted Governments, Individuals and Organizations throughout the world. Including; US DOJ, NHS UK, GOV UK and much more.
