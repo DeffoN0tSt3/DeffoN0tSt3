@@ -103,7 +103,7 @@ All things infosec, all things programming.
 	</ul>	
 </details>
 
-<br /> <br /> 
+<br /> <br />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=DeffoN0tSt3.DeffoN0tSt3&color" alt="Visitors"></p>
 
 
