@@ -102,6 +102,11 @@ All things infosec, all things programming.
    <br />
 	</ul>	
 </details>
+<br /> <br />
+
+<a href="https://www.abuseipdb.com/user/49550" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/49550.svg" alt="AbuseIPDB Contributor Badge" style="width: 296px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
+</a>
 
 <br /> <br />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=DeffoN0tSt3.DeffoN0tSt3&color" alt="Visitors"></p>
