@@ -97,14 +97,14 @@ All things infosec, all things programming.
 
 <br /> 
 <details>	
-<summary>[2] WebBoss.io</summary>
+<summary>[2] WebBoss.io<a href="https://webboss.io/page/bughunter-acknowledgments.html" title="[2] WebBoss.io"></summary>
 <ul><img height="500cm" src="https://i.ibb.co/jgG44x3/ack.png" />
    <br />
 	</ul>	
 </details>
 <br /> <br />
 
-<a href="https://www.abuseipdb.com/user/49550" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+<a href="#" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
 	<img src="https://www.abuseipdb.com/contributor/49550.svg" alt="AbuseIPDB Contributor Badge" style="width: 296px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
 </a>
 
