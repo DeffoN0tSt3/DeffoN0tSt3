@@ -89,19 +89,26 @@ All things infosec, all things programming.
 
 <details>	
   <br />
-<summary><b>[1] @CasualSpaniel via Twitter, secured domain withheld.   5 July, 2022</summary>
+<summary><b>[1] @CasualSpaniel via Twitter, secured domain withheld.</summary>
 <ul>"Great approach, very professional and reasonable. We resolved an issue swiftly and would like to thank n0tSt3 for his attitude and communication. Would highly recommend."
 	    <br />
 	</ul>	
 </details>
 
-<br /> 
 <details>	
-<summary>[2] WebBoss.io<a href="https://webboss.io/page/bughunter-acknowledgments.html" title="[2] WebBoss.io"></summary>
+<summary>[2] WebBoss.io<a href="https://webboss.io/page/bughunter-acknowledgments.html" title="[2] WebBoss.io"></summary></a>
 <ul><img height="500cm" src="https://i.ibb.co/jgG44x3/ack.png" />
    <br />
 	</ul>	
 </details>
+		
+<details>	
+	<summary>[3] NHS UK</summary></a>
+<ul><img height="500cm" src="https://realinfosec.net/dev3332213/nhsRes.png" />
+   <br />
+	</ul>	
+</details>
+	
 <br /> <br />
 
 <a href="#" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
