@@ -8,7 +8,7 @@
 
 Hello World! I'm Steve, also known as n0tst3, an independent security researcher and analyst from Scotland, UK.
 
-I've had an avid interest in Computers and all-things Tech since my early teens. 20 years on, and it's a whole lot more complicated.
+I've had an avid interest in Computers and all-things Tech since my early teens.
 
 Throughout my security research, I've assisted Governments, Individuals, and Organizations throughout the world, including the US DOJ, NHS UK, GOV UK, and many more. I'm mostly self-taught, but that wouldn't be the case if there was no internet! phew!
 
