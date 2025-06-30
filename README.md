@@ -12,7 +12,7 @@ I've had an avid interest in Computers and all-things Tech since my early teens.
 
 Throughout my security research, I've assisted Governments, Individuals, and Organizations throughout the world, including the US DOJ, NHS UK, GOV UK, and many more. I'm mostly self-taught, but that wouldn't be the case if there was no internet! phew!
 
-My passion for Computers and Technology started during my early teens, and 20 years on, it has become a whole' lot more complicated.
+My passion for Computers and Technology started during my early teens.
 
 Over the years, I've had the opportunity to assist Governments, Individuals, and Organizations worldwide in my security research work, including prominent bodies such as the US DOJ, NHS UK, and GOV UK, among others. While mostly self-taught, I'm grateful for the internet, which has played an essential role in my learning journey.
 
